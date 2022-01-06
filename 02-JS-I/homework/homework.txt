@@ -1,0 +1,9 @@
+Variable: espacio reservado en memoria donde se guardara algo para acceder a ese algo más tarde
+
+Strings: cadena de caracteres
+
+Funciones: es la forma de agrupar código que se usa constantemente; en las funciones se pueden enviar argumentos que se usaran internamente para realizar la tarea. Las funciones también pueden ser de tipo function expressions en las que el que llama obtiene una respuesta gracias a que es enviada por medio de la sentencia return, return también finaliza la ejecución de la función
+
+if: se usa para tomar decisiones y saber si una condición es verdadera o falsa, se usa como control de flujo para ejecutar o no una parte del programa
+
+Valores booleanos: valores de lógica booleana en los que se representan estados binarios (encendido o apagado, verdadero o falso, abierto o cerrado, 1 o 0)
