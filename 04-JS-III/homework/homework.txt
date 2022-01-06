@@ -1,0 +1,1 @@
+Arrays: son listas que pueden incluir cualquier tipo de datos incluso puedo contener funciones u otras listas
