@@ -1,0 +1,3 @@
+for : es un bucle que se usa cuando se sabe cuantas veces  se quiere repetir una o un grupo de instrucciones
+ 
+`&&`, `||`, `!`: son operadores lógicos que se usan para comparar condiciones booleanas donde `&&`, es verdadero si todas las condiciones son verdaderas. `||`es verdadero si una de las condiciones es verdadera. `!` niega la condición o condiciones que aparezcan a continuación
