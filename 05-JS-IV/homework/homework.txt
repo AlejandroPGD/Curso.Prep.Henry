@@ -1,0 +1,5 @@
+Objeto: un objeto es una colección de propiedades. 
+Propiedad: es una asociación entre una clave y un valor 
+Método: es una función 
+Bucle for... in: nos sirve para iterar por cada propiedad de un objeto 
+Notación de puntos vs. notación de corchetes: es la forma de acceder a las propiedades de un método la notación por puntos es mas practica y rápida de escribir el código, la notación de corchetes es útil ya que podemos usar variables
