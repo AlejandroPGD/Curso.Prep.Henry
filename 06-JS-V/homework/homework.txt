@@ -1,0 +1,2 @@
+prototipo: todos los objetos tienen una referencia a otro objeto llamado proto, los prototipos son un mecanismo mediante el cual los objetos heredan características entre si
+_Constructors_ (de Clases): es un método especial para crear o inicializar un objeto 
