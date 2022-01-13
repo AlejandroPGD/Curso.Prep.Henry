@@ -1,0 +1,27 @@
+h1 {
+    color: maroon;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: lightyellow;
+    padding: 50px;
+    border: 10px solid gold;    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_658944-MCO31540539804_072019-O.webp");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+div{
+    text-align: center;
+}
